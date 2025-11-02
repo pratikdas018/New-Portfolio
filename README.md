@@ -1,16 +1,52 @@
-# React + Vite
+# Pratik Alex — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live site: https://pratikalex.vercel.app/
 
-Currently, two official plugins are available:
+A clean, responsive developer portfolio showcasing projects, skills, and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Table of contents
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [Demo](#demo)
+- [Built With](#built-with)
+- [Features](#features)
+- [Project structure](#project-structure)
+- [Local setup](#local-setup)
+- [Deploy](#deploy)
+- [Customize](#customize)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [License](#license)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Demo
+
+Visit the live site: **https://pratikalex.vercel.app/**
+
+---
+
+## Built With
+
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- React Router
+- Vercel (hosting)
+- Optional: TypeScript, Redux Toolkit, Axios
+
+---
+
+## Features
+
+- Responsive layout (mobile, tablet, desktop)
+- Hero / About section
+- Projects gallery with live demos & source code
+- Skills / Technologies section
+- Contact form or mailto link
+- Smooth animations and transitions
+- SEO-friendly meta tags and social preview
+
+---
+
